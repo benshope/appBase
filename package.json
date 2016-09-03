@@ -44,6 +44,6 @@
       "locator": "ios"
     }
   ],
-  "name": "xplatform",
-  "description": "xPlatform: An Ionic project"
+  "name": "appbase",
+  "description": "appBase: An Ionic project"
 }
