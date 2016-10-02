@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "es2015",
+    "lib": [
+      "dom",
+      "es2015"
+    ],
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "outDir": "/Users/none/projects/appBase/.tmp"
+  },
+  "include": [
+    "./src/**/*.ts",
+    "/Users/none/projects/appBase/src/app/main.dev.ts",
+    "/Users/none/projects/appBase/src/**/*.d.ts"
+  ],
+  "compileOnSave": false,
+  "atom": {
+    "rewriteTsconfig": false
+  }
+}
